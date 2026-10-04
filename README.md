@@ -87,3 +87,5 @@ npm run dev                         # runs on http://localhost:3000
 - The database is MySQL, matching the original project; switch
   `SQLALCHEMY_DATABASE_URI` in `backend/config.py` if you'd rather use
   Postgres/SQLite for local development.
+  **Created by Karnesh Raja**
+  *First year B.TECH student*
